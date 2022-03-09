@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Highlight Creator Comments on Webtoons
 // @namespace    https://github.com/NicholasDJM/HighlightCreatorCommentsOnWebtoons
-// @version      0.2
+// @version      0.3
 // @description  Highlights comments made by the creator of the comic.
 // @author       Nicholas Miller
 // @include      https://www.webtoons.com/*
